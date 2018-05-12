@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-05-12 20:39:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-05-10 22:28:44 +0200"
@@ -599,7 +605,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "magma_cube": "2018-05-12 20:38:12 +0200",
       "skeleton": "2018-05-10 22:11:19 +0200",
+      "blaze": "2018-05-12 20:38:18 +0200",
       "zombie": "2018-05-10 22:10:12 +0200",
       "witch": "2018-05-10 22:37:57 +0200",
       "spider": "2018-05-10 22:18:58 +0200",
@@ -617,6 +625,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-05-11 20:39:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-05-12 20:16:06 +0200"
     },
     "done": true
   },
@@ -659,6 +673,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2018-05-11 19:18:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2018-05-12 20:18:46 +0200"
     },
     "done": true
   },
@@ -707,6 +727,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2018-05-10 22:45:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-05-12 20:44:09 +0200"
     },
     "done": true
   },
@@ -761,6 +787,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2018-05-10 21:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-05-12 20:37:13 +0200"
     },
     "done": true
   },
@@ -992,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-05-12 20:44:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-05-10 22:59:46 +0200"
@@ -1031,6 +1069,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2018-05-10 22:40:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-05-12 20:44:09 +0200"
     },
     "done": true
   },
@@ -1078,6 +1122,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2018-05-12 18:24:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-05-12 20:39:03 +0200"
     },
     "done": true
   },
@@ -1180,6 +1230,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-05-10 22:45:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-05-12 20:39:03 +0200"
     },
     "done": true
   },

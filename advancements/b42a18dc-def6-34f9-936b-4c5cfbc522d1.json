@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2018-05-10 22:00:05 +0200"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-05-10 22:31:50 +0200"
@@ -395,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-05-10 22:17:50 +0200"
@@ -449,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-05-10 21:58:53 +0200"
@@ -464,6 +488,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-05-10 22:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-05-12 20:56:55 +0200"
     },
     "done": true
   },
@@ -650,11 +680,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2018-05-10 23:05:08 +0200",
+      "magma_cube": "2018-05-12 21:02:10 +0200",
       "skeleton": "2018-05-10 22:18:40 +0200",
       "silverfish": "2018-05-10 22:47:33 +0200",
       "zombie": "2018-05-10 22:19:12 +0200",
       "witch": "2018-05-12 18:45:42 +0200",
       "spider": "2018-05-10 22:07:53 +0200",
+      "ghast": "2018-05-12 20:56:41 +0200",
       "creeper": "2018-05-10 22:13:55 +0200",
       "enderman": "2018-05-10 22:50:16 +0200"
     },
@@ -837,6 +869,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2018-05-10 22:05:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-05-12 21:02:09 +0200"
     },
     "done": true
   },
@@ -1104,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2018-05-10 22:04:55 +0200"
@@ -1209,6 +1253,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2018-05-11 22:51:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-05-12 21:02:05 +0200"
     },
     "done": true
   },
