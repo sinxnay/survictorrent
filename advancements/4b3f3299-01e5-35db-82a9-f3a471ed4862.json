@@ -435,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-05-12 18:32:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-05-10 22:30:12 +0200"
@@ -597,6 +603,7 @@
       "zombie": "2018-05-10 22:10:12 +0200",
       "witch": "2018-05-10 22:37:57 +0200",
       "spider": "2018-05-10 22:18:58 +0200",
+      "ghast": "2018-05-12 18:32:41 +0200",
       "creeper": "2018-05-11 19:36:12 +0200"
     },
     "done": false
