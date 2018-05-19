@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2018-05-19 23:12:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-05-11 22:53:21 +0200"
@@ -227,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2018-05-19 23:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2018-05-12 20:09:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-05-19 23:08:53 +0200"
     },
     "done": true
   },
@@ -262,8 +280,10 @@
       "chicken": "2018-05-13 16:22:09 +0200",
       "cooked_mutton": "2018-05-11 22:42:34 +0200",
       "baked_potato": "2018-05-11 23:12:27 +0200",
+      "apple": "2018-05-19 22:34:37 +0200",
       "mutton": "2018-05-13 16:20:47 +0200",
-      "rotten_flesh": "2018-05-11 23:10:42 +0200"
+      "rotten_flesh": "2018-05-11 23:10:42 +0200",
+      "cooked_chicken": "2018-05-19 22:47:01 +0200"
     },
     "done": false
   },
@@ -459,6 +479,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2018-05-12 20:09:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-05-19 23:09:57 +0200"
     },
     "done": true
   },
@@ -832,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2018-05-19 23:07:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-05-11 22:43:41 +0200"
@@ -1164,6 +1196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-05-19 23:12:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2018-05-11 22:33:22 +0200"
@@ -1233,6 +1271,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-05-11 22:37:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2018-05-19 23:12:39 +0200"
     },
     "done": true
   },
